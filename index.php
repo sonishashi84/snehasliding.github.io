@@ -257,7 +257,7 @@
                                             </p>
                                         </div>
                                         <div class="col-md-6 col-sm-5 thumb" data-animation="animated slideInRight">
-                                            <img src="assets/img/banner-png/w1.png" alt="Thumb">
+                                            <img src="assets/img/banner-png/w1.jpg" alt="Thumb">
                                         </div>
                                     </div>
                                 </div>
@@ -282,7 +282,7 @@
                                     
                                 </div>
                                 <div class="col-md-6 col-sm-5 thumb" data-animation="animated slideInDown">
-                                    <img src="assets/img/banner-png/w2.png" alt="Thumb">
+                                    <img src="assets/img/banner-png/w2.jpg" alt="Thumb">
                                 </div>
                             </div>
                         </div>
@@ -292,83 +292,7 @@
         </div>
         <!-- End Single Item -->
 
-        <!-- Single Item -->
-        <div class="item">
-            <div class="box-table">
-                <div class="box-cell">
-                    <div class="container">
-                        <div class="row">
-                            <div class="double-items content">
-                                <div class="col-md-6 col-sm-7 info">
-                                    <h1 data-animation="animated fadeInUp">Wall Stencil</h1>
-                                    <h3 data-animation="animated fadeInDown">Get beautiful Wall Stencil at lowest price</h3>
-                                    <p data-animation="animated slideInUp">
-                                        We offer a qualitative range of Designer Wall Stencil.<br> we can customize wall stencil as per your requirement.
-                                    </p>
-                                    
-                                </div>
-                                <div class="col-md-6 col-sm-5 thumb" data-animation="animated slideInRight">
-                                    <img src="assets/img/banner-png/w3.png" alt="Thumb">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Single Item -->
 
-         <!-- Single Item -->
-         <div class="item">
-            <div class="box-table">
-                <div class="box-cell">
-                    <div class="container">
-                        <div class="row">
-                            <div class="double-items content">
-                                <div class="col-md-6 col-sm-7 info">
-                                    <h1 data-animation="animated fadeInUp">Wall Texture</h1>
-                                    <h3 data-animation="animated fadeInDown">Get beautiful Wall Texture at lowest price</h3>
-                                    <p data-animation="animated slideInUp">
-                                        We offer a qualitative range of Designer Wall Texture<br> we can customize wall texture as per your requirement.
-                                    </p>
-                                    
-                                </div>
-                                <div class="col-md-6 col-sm-5 thumb" data-animation="animated slideInRight">
-                                    <img src="assets/img/banner-png/w4.png" alt="Thumb">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Single Item -->
-
-         <!-- Single Item -->
-         <div class="item">
-            <div class="box-table">
-                <div class="box-cell">
-                    <div class="container">
-                        <div class="row">
-                            <div class="double-items content">
-                                <div class="col-md-6 col-sm-7 info">
-                                    <h1 data-animation="animated fadeInUp">Grey Tile</h1>
-                                    <h3 data-animation="animated fadeInDown">Tile Installation, Tile Re-installation</h3>
-                                    <p data-animation="animated slideInUp">
-                                        We provide all kind of tile services such as Tile Installation and <br>Re-installation with varity of tile design.
-                                    </p>
-                                    
-                                </div>
-                                <div class="col-md-6 col-sm-5 thumb" data-animation="animated slideInRight">
-                                    <img src="assets/img/banner-png/w5.png" alt="Thumb">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- End Single Item -->
        
 
             </div>
@@ -1383,250 +1307,7 @@
 
 
 
-    <!-- Start About 
-    ============================================= -->
-    <!-- <div id="about" class="about-area half-bg default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="about-items">
-                    <div class="col-md-7 info">
-                        <h3>Our Story</h3>
-                        <h2>Until I discovered cooking I was never<br> really interested in anything</h2>
-                        <p>
-                            Pleased anxious or as in by viewing forbade minutes prevent. Too leave had those get being led weeks blind. Had men rose from down lady able. Its son him ferrars proceed six parlors.
-                        </p>
-                        <p>
-                           Advanced diverted domestic sex repeated bringing you old. Possible procured her trifling laughter thoughts property she met way. Companions shy had solicitude favourable own. Which could saw guest man now heard but. Lasted my coming uneasy marked so should. Gravity letters it amongst herself dearest an windows by. Wooded ladies she basket.
-                        </p>
-                        <ul>
-                            <li>
-                                <div class="icon">
-                                    <i class="fas fa-phone"></i>
-                                </div>
-                                <div class="info">
-                                    <h4>Phone</h4>
-                                    <span>+123 456 7890</span>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <i class="fas fa-envelope-open"></i>
-                                </div>
-                                <div class="info">
-                                    <h4>Eamil</h4>
-                                    <span>support@restcafe.com</span>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="col-md-4 col-md-offset-1 text-light opening-hours">
-                        <div class="item">
-                            <h2>Opening Hours</h2>
-                            <ul>
-                                <li> 
-                                    <span> Saturday :  </span>
-                                    <div class="pull-right"> 6.00 am - 12.00 pm </div>
-                                </li>
-                                <li> 
-                                    <span> Sunday :  </span>
-                                    <div class="pull-right"> 8.30 am - 11.00 pm </div>
-                                </li>
-                                <li> 
-                                    <span> Monday :  </span>
-                                    <div class="pull-right"> 9.00 am - 10.30 pm </div>
-                                </li>
-                                <li> 
-                                    <span> Tuesday :  </span>
-                                    <div class="pull-right"> 8.00 am - 12.00 pm </div>
-                                </li>
-                                <li> 
-                                    <span> Wednesday :  </span>
-                                    <div class="pull-right"> 9.45 am - 10.00 pm </div>
-                                </li>
-                                <li> 
-                                    <span> Thursday :  </span>
-                                    <div class="pull-right"> 10.15 am - 12.00 pm </div>
-                                </li>
-
-                                <li> 
-                                    <span> Friday : </span>
-                                    <div class="pull-right closed"> Closed </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End About -->
-
-    <!-- Start Food Menu
-    ============================================= -->
-    <!-- <div id="menu" class="food-menu-area bg-gray simple default-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <div class="site-heading text-center">
-                        <h3>Discorver</h3>
-                        <h2>Our Menu</h2>
-                        <p>
-                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="menu-lists text-center">
-                   
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/1.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$5.90</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Crispy Crust Pizzeria</a></h4>
-                                <span>Mutton / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                   
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/2.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$18.10</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Luger Burger</a></h4>
-                                <span>Beef / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                  
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/3.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$6.00</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Fries McDonald's</a></h4>
-                                <span>Chicken / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/4.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$11.50</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Chicken Popeyes</a></h4>
-                                <span>Mutton / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/5.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$25.00</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Chicken Sandwich</a></h4>
-                                <span>Chicken / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                   
-                    <div class="col-md-4 col-sm-6 equal-height">
-                        <div class="item">
-                            <div class="thumb">
-                                <a href="#">
-                                    <img src="assets/img/menu/6.jpg" alt="Thumb">
-                                </a>
-                                <div class="price">
-                                    <h5>$9.10</h5>
-                                </div>
-                            </div>
-                            <div class="info">
-                                <h4><a href="#">Salmon Steak</a></h4>
-                                <span>Beef / Olive Oil / Salt</span>
-                                <p>
-                                    Considered introduced themselves mr to discretion at. Means among saw hopes for. Death mirth in oh learn he equal on.
-                                </p>
-                                <div class="button">
-                                    <a href="#">Order Now</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-md-12">
-                        <a class="btn btn-theme effect btn-md" href="#">View More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- End Food Menu -->
-
+    
     <!-- Start Blog 
     ============================================= -->
     <div id="projects" class="blog-area default-padding">
@@ -1690,24 +1371,7 @@
                                     <img src="assets/img/blog/2.jpg" alt="Thumb">
                                 </a>
                             </div>
-                            <!-- <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fas fa-user"></i> Admin</a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fas fa-calendar-alt"></i> 24 Apr, 2019</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="blog-single-right-sidebar.html">stimulated cultivated projection possession</a>
-                                </h4>
-                                <p>
-                                    Arranging furnished knowledge agreeable so. Fanny as smile up small. It vulgar chatty simple months turned oh at change of.
-                                </p>
-                            </div> -->
+                          
                         </div>
                         <!-- End Single Item -->
                         <!-- Single Item -->
@@ -1717,24 +1381,7 @@
                                     <img src="assets/img/blog/3.jpg" alt="Thumb">
                                 </a>
                             </div>
-                            <!-- <div class="info">
-                                <div class="meta">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fas fa-user"></i> Admin</a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fas fa-calendar-alt"></i> 24 Apr, 2019</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <h4>
-                                    <a href="blog-single-right-sidebar.html">Difficulty on insensible reasonable in</a>
-                                </h4>
-                                <p>
-                                    Arranging furnished knowledge agreeable so. Fanny as smile up small. It vulgar chatty simple months turned oh at change of. 
-                                </p>
-                            </div> -->
+                          
                         </div>
                         <!-- End Single Item -->
                     </div>
@@ -1754,66 +1401,42 @@
                     <!-- Single Item -->
                     <div class="item bg-cover" style="background-image: url(assets/img/features/1.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-dinner-table"></i> -->
-                            <!-- <h4>Fine Dining</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                           
                         </div>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="item bg-cover" style="background-image: url(assets/img/features/2.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-champagne-glass"></i> -->
-                            <!-- <h4>Party and Event</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                            
                         </div>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="item bg-cover" style="background-image: url(assets/img/features/3.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-buffet"></i> -->
-                            <!-- <h4>Buffet</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                           
                         </div>
                     </div>
                     <!-- End Single Item -->
                     <!-- Single Item -->
                     <div class="item bg-cover" style="background-image: url(assets/img/features/4.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-moving-truck"></i> -->
-                            <!-- <h4>Home Delivery</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                            
                         </div>
                     </div>
                     <!-- End Single Item -->
                      <!-- Single Item -->
                      <div class="item bg-cover" style="background-image: url(assets/img/features/4.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-moving-truck"></i> -->
-                            <!-- <h4>Home Delivery</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                           
                         </div>
                     </div>
                     <!-- End Single Item -->
                       <!-- Single Item -->
                       <div class="item bg-cover" style="background-image: url(assets/img/features/3.jpg);">
                         <div class="box">
-                            <!-- <i class="flaticon-buffet"></i> -->
-                            <!-- <h4>Buffet</h4>
-                            <p>
-                                Belonging sir curiosity discovery extremity yet forfeited prevailed own off. Travelling by introduced of mr terminated.
-                            </p> -->
+                           
                         </div>
                     </div>
                     <!-- End Single Item -->
@@ -1855,20 +1478,7 @@
                                     <p>
                                         I have 10 years of exoerience in Alluminium & Glass work. 
                                     </p>
-                                    <!-- <ul>
-                                        <li class="facebook">
-                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
-                                    </ul> -->
+                                  
                                 </div>
                             </div>
                         </div>
@@ -1889,20 +1499,7 @@
                                     <p>
                                         I have 15 year of experience in Painting and Civil work.
                                     </p>
-                                    <!-- <ul>
-                                        <li class="facebook">
-                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
-                                    </ul> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -1923,20 +1520,7 @@
                                     <p>
                                         I have 15 year of experience in Painting and Civil work.
                                     </p>
-                                    <!-- <ul>
-                                        <li class="facebook">
-                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        </li>
-                                        <li class="twitter">
-                                            <a href="#"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                        <li class="pinterest">
-                                            <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                        </li>
-                                        <li class="linkedin">
-                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                        </li>
-                                    </ul> -->
+                                   
                                 </div>
                             </div>
                         </div>
@@ -1948,89 +1532,7 @@
     </div>
     <!-- End Chef Area -->
 
-    <!-- Start Video BG 
-    ============================================= -->
-    <!-- <div id="book-table" class="video-bg-area text-center shadow dark text-light video-bg-live bg-fixed" style="background-image: url(assets/img/banner/6.jpg);">
-        <div class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=hoiGV-N-2Gs',containment:'.video-bg-live', showControls:false, autoPlay:true, zoom:0, loop:true, mute:true, startAt:5, opacity:1, quality:'default'}"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h1>We Always serve the vaping hot and delicious foods</h1>
-                    <a class="btn btn-theme effect btn-md" href="#">Book a table</a>
-                </div>
-            </div>
-        </div>
-       
-        <div class="wavesshape">
-            <img src="assets/img/shape.png" alt="Shape">
-        </div>
-        
-    </div> -->
-    <!-- End Video BG -->
-
-
-
-    <!-- Start Contact 
-    ============================================= -->
-
-    <!-- <div id="contact" class="contact-area bg-gray">
-        <div class="container-full">
-            <div class="row">
-                <div class="contact-box">
-                    <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/banner/19.jpg);"></div>
-                    
-                    <div class="col-md-6 form-box">
-                        <div class="heading">
-                            <h2>What's Your Question?</h2>
-                        </div>
-                        <form action="http://thememine.net/themeforest/recafe/assets/mail/contact.php" method="POST" class="contact-form">
-                            <div class="col-md-12">
-                                <div class="row">
-                                    <div class="form-group">
-                                        <input class="form-control" id="name" name="name" placeholder="Name" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="email" name="email" placeholder="Email*" type="email">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="form-group">
-                                        <input class="form-control" id="phone" name="phone" placeholder="Phone" type="text">
-                                        <span class="alert-error"></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="row">
-                                    <div class="form-group comments">
-                                        <textarea class="form-control" id="comments" name="comments" placeholder="Tell Us About Project *"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-12">
-                                <div class="row">
-                                    <button type="submit" name="submit" id="submit">
-                                        Send Message <i class="fa fa-paper-plane"></i>
-                                    </button>
-                                </div>
-                            </div>
-                            
-                            <div class="col-md-12 alert-notification">
-                                <div id="message" class="alert-msg"></div>
-                            </div>
-                        </form>
-                    </div>
-                   
-                </div>
-            </div>
-        </div>
-    </div> -->
+    
     <div id="contact" class="contact-us-area default-padding">
         <div class="container">
             <div class="row">
@@ -2085,7 +1587,7 @@
                             <div class="heading">
                                 <h3>Drop us a line</h3>
                             </div>
-                            <form action="http://thememine.net/themeforest/recafe/assets/mail/contact.php" method="POST" class="contact-form">
+                            <form action="" method="POST" class="contact-form">
                                 <div class="col-md-12">
                                     <div class="row">
                                         <div class="form-group">
@@ -2341,17 +1843,7 @@
                         <p>&copy; Copyright 2020. All Rights Reserved by <a href="#">SnehaSliding</a></p>
                     </div>
                     <div class="col-md-6 text-right link">
-                        <!-- <ul>
-                            <li>
-                                <a href="#">Terms of user</a>
-                            </li>
-                            <li>
-                                <a href="#">License</a>
-                            </li>
-                            <li>
-                                <a href="#">Support</a>
-                            </li>
-                        </ul> -->
+                       
                     </div>
                 </div>
             </div>
@@ -2380,6 +1872,4 @@
     <script src="assets/js/main.js"></script>
 
 </body>
-
-
 </html>
